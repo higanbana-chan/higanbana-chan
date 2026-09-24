@@ -1,7 +1,7 @@
-Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pipatpol Wijitchayanon
+Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pipatpol Hongsuwan
 ==============================================================================================================================================
 
-2nd-Year Computer Science Student at Kasetsart University
+4th-Year Computer Science Student at Kasetsart University
 ---------------------------------------------------------
 
 \-> 🔭 Interested in DataScience, AI, Machine Learning, Deep Learning, and Web/Mobile Development
